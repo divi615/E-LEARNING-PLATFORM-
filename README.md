@@ -19,3 +19,4 @@ The e-learning platform is designed to offer an engaging and interactive learnin
 
 # OUTPUT OF THE TASK
 
+![Image](https://github.com/user-attachments/assets/f13dc80b-b412-4e2b-8a75-1b33f5ee1b48)
